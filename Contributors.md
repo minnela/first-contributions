@@ -25,6 +25,7 @@
 - CodeWithMughal
 - Jonas Kim
 - Giacomo Frascarelli
+-Minel Aydın
 - Michael Finn'
 - Shashank Mishra
 - Robert Wright Jr.
